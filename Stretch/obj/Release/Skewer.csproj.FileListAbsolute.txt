@@ -1,0 +1,9 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\bin\Release\Skewer.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\bin\Release\Skewer.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\bin\Release\Skewer.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.csproj.GenerateResource.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.csproj.CoreCompileInputs.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Skewer\Skewer\obj\Release\Skewer.pdb
