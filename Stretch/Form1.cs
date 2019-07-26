@@ -78,13 +78,15 @@ namespace Stretch
             int destY = 0;
 
 
-            Bitmap bmPhoto = new Bitmap(Width, Height,
-                              PixelFormat.Format24bppRgb);
+            //Bitmap bmPhoto = new Bitmap(Width, Height,PixelFormat.Format24bppRgb);
+            Bitmap bmPhoto = new Bitmap(Width, Height, PixelFormat.Format32bppArgb);
             bmPhoto.SetResolution(imgPhoto.HorizontalResolution,
                              imgPhoto.VerticalResolution);
 
             Graphics grPhoto = Graphics.FromImage(bmPhoto);
-            grPhoto.Clear(Color.Red);
+            //grPhoto.Clear(Color.Red);
+            grPhoto.Clear(Color.Empty);
+            
             grPhoto.InterpolationMode =
                     InterpolationMode.HighQualityBicubic;
 
